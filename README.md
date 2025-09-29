@@ -1,6 +1,4 @@
-# ASCENT
-
-PROJECT: ASCENT
+# PROJECT: ASCENT
 AUTHOR: ARSHIA SHAHAB
 
 Preface: In the 10th grade I programmed a dji tello drone in python using their SDK. Now, I want to design and build my own drone to explore ROV spatial traversion capabilities in varying fields.
