@@ -18,3 +18,4 @@ Objectives/Constraints:
   - Objective (Drone): Drone design should minimize components --> units: total components
   - Objective (Drone): Drone design should minimize cost --> units: total cost
   - Objective (Drone): Drone design should maximze flight range --> units: meters
+  - Objectuve (Drone): Drone design should maximize flight time --> units: Ah
